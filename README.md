@@ -28,6 +28,9 @@ FloraExplorer provides a unique platform for users to discover, learn, and engag
 
 We've built FloraExplorer by integrating advanced technology and collaboration. Our chatbot is powered by Retrieval Augmented Generation technology and is connected to Telegram. We're actively working on integrating the ArcGIS API for Python to enhance image capture and geolocation storage.
 
+## RAG Educational Resources
+Check out our databank [here](EducationalResources.md)
+
 ## Challenges
 
 One of the ongoing challenges we're facing is the integration of the ArcGIS API for Python, ensuring a seamless experience for image capture, plant recognition, and geolocation storage.
@@ -58,5 +61,5 @@ We welcome contributions and collaboration. Feel free to [open an issue](URL-TO-
 
 [Additional Project Resources and Links]
 - [Website](https://flora-explorer.framer.ai/)
-- [Chatbot on Telegram](URL-TO-TELEGRAM-CHATBOT)
+- [Chatbot on Telegram](http://t.me/FloraExplorerBot)
 - [Documentation](URL-TO-DOCS)
